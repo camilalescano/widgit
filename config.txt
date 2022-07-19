@@ -1,2 +1,4 @@
 Ejemplo de configuraciones añadidas
 Este cambio se tiene que descargar mediante un pull
+
+Linea de texto añadida como ejemplo para realizar un push a mi repositorio remoto
