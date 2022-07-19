@@ -1,0 +1,2 @@
+Ejemplo de configuraciones añadidas
+Este cambio se tiene que descargar mediante un pull
